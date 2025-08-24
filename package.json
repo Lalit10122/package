@@ -1,0 +1,21 @@
+{
+  "name": "terminal-pattern",
+  "version": "1.0.0",
+  "description": "print the pattern and name in the terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lalit10122/package.git"
+  },
+  "keywords": [],
+  "author": "Lalit Patharia",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Lalit10122/package/issues"
+  },
+  "homepage": "https://github.com/Lalit10122/package#readme"
+}
