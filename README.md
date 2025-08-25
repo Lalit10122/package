@@ -37,7 +37,7 @@ patternPrinter.printName('JOHN');
 ### Pattern Printing
 
 ```javascript
-const { printTriangle } = require('your-package-name');
+const { printTriangle } = require('terminal-pattern');
 
 // Print a triangle pattern
 printTriangle('solid', 5);
@@ -55,7 +55,7 @@ printTriangle('solid', 5);
 ### Name/Text Printing
 
 ```javascript
-const { printName } = require('your-package-name');
+const { printName } = require('terminal-pattern');
 
 // Print name in ASCII art
 printName('HELLO');
@@ -99,7 +99,7 @@ Prints text as ASCII art in the terminal.
 ## 📋 Examples
 
 ```javascript
-const printer = require('your-package-name');
+const printer = require('terminal-pattern');
 
 // Different patterns
 printer.printPattern('triangle', 6);
